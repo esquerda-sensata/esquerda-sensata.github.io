@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Todos os posts"
-    url: /blog/
+    url: /blog
   - title: "Sobre"
     url: /sobre/
   # - title: "About"
